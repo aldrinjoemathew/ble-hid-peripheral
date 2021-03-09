@@ -23,8 +23,8 @@ import android.content.IntentFilter;
 import android.os.Build.VERSION_CODES;
 import android.os.Handler;
 import android.os.ParcelUuid;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
 import android.util.Log;
 
 import java.nio.charset.StandardCharsets;
